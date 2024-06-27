@@ -6,3 +6,5 @@ document.write(`\n\nThe History information: ${history.length}`);
 
 document.write(`\n\nThe Location information: ${location.href}`);
 
+//This comment is added by Akashdeep in the branch branchAkash
+
